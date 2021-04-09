@@ -1,4 +1,3 @@
-const { padStart } = require('lodash');
 const { nextISSTimesForMyLocation } = require('./iss_promised');
 
 const printPassTimes = function(passTimes) {
